@@ -68,7 +68,3 @@
 ## 📫 How to Reach Me
 - **Email:** [dhineshsamuvel@gmail.com](mailto:dhineshsamuvel@gmail.com)  
 - **GitHub:** [https://github.com/dhineshsamuvel](https://github.com/dhineshsamuvel)  
-
----
-
-*This README reflects my portfolio and ongoing projects as shown on [my website](https://omicwears.tech).*  
