@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dhineshsamuvel
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on sql
+- 🌱 I’m currently learning cybersecurity
 - 📫 How to reach me dhineshsamuvel@gmail.com
 
 <!---
