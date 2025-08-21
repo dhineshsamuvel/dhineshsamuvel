@@ -27,7 +27,7 @@
 ## 🛠 Skills
 **Languages:** Python, HTML, CSS, JavaScript  
 **Frameworks:** Django, Bootstrap  
-**Database:** PostgreSQL, SQL  
+**Database:**  SQL  
 **Tools & OS:** Linux, Git, Cloud Deployment  
 
 ---
